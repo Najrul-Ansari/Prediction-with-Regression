@@ -18,16 +18,3 @@ Objective: To develop a predictive model for estimating salary hikes for employe
 Why: Enhance the accuracy and fairness of salary adjustments, providing a data-driven approach to decision-making.
 Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. In the context of predicting salary based on years of experience, linear regression helps us understand and quantify the linear relationship between these two variables.
 
-
-Installation
-Clone the repository:
-
-git clone https://github.com/your-username/linear-regression-models.git
-Navigate to the project directory:
-cd linear-regression-models
-Install dependencies:
-pip install -r requirements.txt
-Presentation
-For a detailed explanation and insights into the models, refer to the accompanying PowerPoint presentation:
-
-
